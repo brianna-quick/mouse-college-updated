@@ -27,6 +27,20 @@ h1 {
   text-decoration: none;
 }
 
+#login {
+  float: right;
+  text-align: right;
+  position: relative;
+  bottom: 105px;
+  background-color: #89043D;
+  padding: 10px;
+}
+
+label {
+  color: rgb(214 214 191);
+  
+}
+
 #home-link {
   color: white;
   text-decoration: none;
